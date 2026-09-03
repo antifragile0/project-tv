@@ -1569,26 +1569,26 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991300/hls/master.m3u8?includeAsset
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_[PLATFORM]_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=[IFA_TYPE]
 
 # === RCTI+ SECTION ===
-# Updated: 2026-09-03 10:28:56
+# Updated: 2026-09-03 15:34:25
 
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788467335~hmac=7e63e672e60f07c765c1169efad29a508e7ff5ad52cbe81b786672676ae7f3af
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788485652~hmac=0e76a4d549fc9498d1d8f8e6710a967e858e3175f6c0f93108e59549faf46066
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788467335~hmac=fa6e63acab29c11eb25b2f9e8c3cbf59a8fe4fab2b944f750c9b70bbf7174706
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788485656~hmac=3fe7837843ff80b8711cd7b466841d83566b4ca68bb8de61461a2831d3e1dd5b
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788467335~hmac=044b2d7d6688da7de791dcf00ffdecf37e9f3d441f7c0306090846b32e5d7ca6
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788485662~hmac=f03dc483dec82329830ebeaced29e5c89b9e0b1609acf590ae20b414e4f763dd
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788467336~hmac=725239ade1d3782e807c4b94c529d0ec2f86aab9acbdf9588d8ebe729e2fd1c7
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788485665~hmac=949ff6e6ad9b160a38e3dfd2c7f709735a1f74e5a28b6c3f947e36743cac5488
 
 # === END RCTI+ SECTION ===
