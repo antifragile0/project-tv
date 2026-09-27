@@ -1,12 +1,7 @@
 #EXTM3U
-# Generated: 2026-09-27 16:08:35
+# Generated: 2026-09-27 20:40:14
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790561314~hmac=145856d07660ea36894230f77a4a4682a46626cf574cc892dadfe453592c52c0
-
-#EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790561315~hmac=86e8c0a2fde7f8d302fd588eba5e9adc8b6440b97ae32cb38e8c18a9614051c0
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790577613~hmac=090188d504f8f0d785e8b444251fd877dcc991d067aa0f2cb7649509be319667
