@@ -3,18 +3,6 @@
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/JHDAJBDnjdna30.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Denver Nuggets vs Oklahoma City Thunder (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/okc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=0e2240&color2=007ac1&q=65&w=100" group-title="Live Events",[Basketball] Denver Nuggets vs Oklahoma City Thunder (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nba-2.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstream.duckdns.org/nba2h/mono.ts.m3u8?token=3932f0daa4f82381c15c18dc4d7b7812
-#EXTINF:-1 tvg-chno="90" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Detroit Red Wings vs Vancouver Canucks (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/van.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=e30526&color2=003e7e&q=65&w=100" group-title="Live Events",[Hockey] Detroit Red Wings vs Vancouver Canucks (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nhl-12.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eu-4605069466.duckdns.org/nhl12h/mono.ts.m3u8?token=57271a692e3180e95468e612bf8b8e1c
-#EXTINF:-1 tvg-chno="98" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Utah Mammoth vs Seattle Kraken (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/uta.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/sea.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=000000&color2=000d33&q=65&w=100" group-title="Live Events",[Hockey] Utah Mammoth vs Seattle Kraken (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nhl-11.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstream.duckdns.org/nhl11h/mono.ts.m3u8?token=3932f0daa4f82381c15c18dc4d7b7812
 #EXTINF:-1 tvg-chno="133" tvg-id="Live.Event.us" tvg-name="[Live Event] New England Patriots at Chicago Bears (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] New England Patriots at Chicago Bears (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://streampass.shop/nfl/patriots.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
