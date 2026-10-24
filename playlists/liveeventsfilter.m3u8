@@ -1,65 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="125" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Alavés vs. Málaga | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Alavés vs. Málaga | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Allsvenskan] Kalmar vs Brommapojkarna (DAMITV)" tvg-logo="https://ondemand.st/img/cards/swe.1/401842855.jpg?v=3" group-title="Live Events",[Allsvenskan] Kalmar vs Brommapojkarna (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~p-kalmar-ff-vs-if-brommapojkarna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="127" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Ipswich Town vs. Nottingham Forest | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Ipswich Town vs. Nottingham Forest | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+https://messi.damitv.st/live-sd/s/admin/p-kalmar-ff-vs-if-brommapojkarna/2/playlist.m3u8?tk=27RWo2ob8Ol4XFHvFrSHxw&e=1792897205
+#EXTINF:-1 tvg-chno="314" tvg-id="Live.Event.us" tvg-name="[Fight] UFC 333 Volkanovski vs Evloev (DAMITV)" tvg-logo="https://ondemand.st/img/y/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvX5kxYUCF4gsIFCGohEMECWP6Q0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Live Events",[Fight] UFC 333 Volkanovski vs Evloev (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~p-ufc-333-volkanovski-vs-evloev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="130" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - USA GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Formula 1 2026 - USA GP (iSTRMEAST)
+https://messi.damitv.st/live-sd/s/admin/p-ufc-333-volkanovski-vs-evloev/2/playlist.m3u8?tk=5X-Wb-Gajba15QC4cXmtZQ&e=1792893623
+#EXTINF:-1 tvg-chno="323" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Djurgården vs Örgryte (DAMITV)" tvg-logo="https://ondemand.st/img/cards/swe.1/401842850.jpg?v=3" group-title="Live Events",[Football] Djurgården vs Örgryte (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~p-djurg-rden-vs-rgryte-is
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/s/admin/p-djurg-rden-vs-rgryte-is/2/playlist.m3u8?tk=27RWo2ob8Ol4XFHvFrSHxw&e=1792897205
+#EXTINF:-1 tvg-chno="330" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - USA GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Formula 1 2026 - USA GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58439?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/58439/load-playlist
-#EXTINF:-1 tvg-chno="259" tvg-id="Live.Event.us" tvg-name="[Live Event] Atlanta Hawks at Charlotte Hornets (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] Atlanta Hawks at Charlotte Hornets (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/hornets.html
+#EXTINF:-1 tvg-chno="603" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[MMA] UFC 333: Volkanovski vs. Evloev | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[MMA] UFC 333: Volkanovski vs. Evloev | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juniperstatic.s3-accelerate.amazonaws.com/hornets.m3u8
-#EXTINF:-1 tvg-chno="260" tvg-id="Live.Event.us" tvg-name="[Live Event] Dallas Mavericks at Indiana Pacers (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] Dallas Mavericks at Indiana Pacers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/pacers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juniperstatic.s3-accelerate.amazonaws.com/pacers.m3u8
-#EXTINF:-1 tvg-chno="261" tvg-id="Live.Event.us" tvg-name="[Live Event] Houston Rockets at San Antonio Spurs (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] Houston Rockets at San Antonio Spurs (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/spurs.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://peregrinecloud.s3-accelerate.amazonaws.com/spurs.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-id="Live.Event.us" tvg-name="[Live Event] LA Clippers at Los Angeles Lakers (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] LA Clippers at Los Angeles Lakers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/lakers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juniperstatic.s3-accelerate.amazonaws.com/lakers.m3u8
-#EXTINF:-1 tvg-chno="263" tvg-id="Live.Event.us" tvg-name="[Live Event] Memphis Grizzlies at Golden State Warriors (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] Memphis Grizzlies at Golden State Warriors (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/warriors.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juniperstatic.s3-accelerate.amazonaws.com/warriors.m3u8
-#EXTINF:-1 tvg-chno="264" tvg-id="Live.Event.us" tvg-name="[Live Event] Minnesota Timberwolves at Orlando Magic (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] Minnesota Timberwolves at Orlando Magic (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/wolves.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juniperstatic.s3-accelerate.amazonaws.com/wolves.m3u8
-#EXTINF:-1 tvg-chno="265" tvg-id="Live.Event.us" tvg-name="[Live Event] New Orleans Pelicans at Utah Jazz (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] New Orleans Pelicans at Utah Jazz (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/pelicans.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://peregrinecloud.s3-accelerate.amazonaws.com/pelicans.m3u8
-#EXTINF:-1 tvg-chno="266" tvg-id="Live.Event.us" tvg-name="[Live Event] New York Knicks at Boston Celtics (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] New York Knicks at Boston Celtics (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/celtics.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juniperstatic.s3-accelerate.amazonaws.com/celtics.m3u8
-#EXTINF:-1 tvg-chno="267" tvg-id="Live.Event.us" tvg-name="[Live Event] Portland Trail Blazers at Sacramento Kings (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] Portland Trail Blazers at Sacramento Kings (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/blazers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juniperstatic.s3-accelerate.amazonaws.com/blazers.m3u8
-#EXTINF:-1 tvg-chno="268" tvg-id="Live.Event.us" tvg-name="[Live Event] Toronto Raptors at Washington Wizards (SPRTSPASS)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Live Event] Toronto Raptors at Washington Wizards (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streampass.shop/nba/raptors.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juniperstatic.s3-accelerate.amazonaws.com/raptors.m3u8
-#EXTINF:-1 tvg-chno="318" tvg-id="Racing.Dummy.us" tvg-name="[MotoGP] MotoGP Grand Prix of Australia (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png" group-title="Live Events",[MotoGP] MotoGP Grand Prix of Australia (FAWA)
+https://edgestream4.pro/hls/zeuryuegn48.m3u8
+#EXTINF:-1 tvg-chno="646" tvg-id="Soccer.Dummy.us" tvg-name="[Poland Ekstraklasa] Pogon Szczecin vs Radomiak Radom (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/poland/700x700/ekstraklasa.007755e8.png" group-title="Live Events",[Poland Ekstraklasa] Pogon Szczecin vs Radomiak Radom (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/fddd.m3u8
-#EXTINF:-1 tvg-chno="438" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Colorado Avalanche vs Tampa Bay Lightning 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Colorado Avalanche vs Tampa Bay Lightning 1 (FAWA)
+http://193.47.62.55/hls/btbtbtqqqqqqqaaa.m3u8
+#EXTINF:-1 tvg-chno="714" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Everton vs Arsenal | HD720 (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[Premier League] Everton vs Arsenal | HD720 (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetvcdn.php?stream=uw44ba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live/uw44ba/master.m3u8?st=I-4HMcx6TvlvISp0-Uu-FA&e=1792861223
+#EXTINF:-1 tvg-chno="756" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MSC Cruises United States Grand Prix — FP3 | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Racing] MSC Cruises United States Grand Prix — FP3 | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8
+#EXTINF:-1 tvg-chno="757" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MSC Cruises United States Grand Prix — Qual | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Racing] MSC Cruises United States Grand Prix — Qual | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/hbfkazbkaznc49.m3u8
+#EXTINF:-1 tvg-chno="912" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC Fight Night] UFC 333 : Volkanovski vs Evloev (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live Events",[UFC Fight Night] UFC 333 : Volkanovski vs Evloev (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/98aed5e3-dadb-4302-970c-df94cfcb2b80/master.m3u8
-#EXTINF:-1 tvg-chno="492" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MSC Cruises United States Grand Prix — FP2 | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Racing] MSC Cruises United States Grand Prix — FP2 | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+http://193.47.62.41/hls/h555.m3u8
+#EXTINF:-1 tvg-chno="918" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC] UFC 333: Volkanovski vs. Evloev (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live Events",[UFC] UFC 333: Volkanovski vs. Evloev (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58495?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8
+https://chatgpt.hereisman.net/playlist/58495/load-playlist-multi
