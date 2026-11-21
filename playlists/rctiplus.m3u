@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-11-21 13:58:36
+# Generated: 2026-11-21 22:39:12
 
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795280315-7648051403e99d2a36a9424b34cc0ba7-0-82e5154656308891f38ec3a8f9c850c0
+https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795311551-3738d0961bf8e83b149e294304c02827-0-44ca2bb66605aab1ae9b90342e9fc598
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795280315-47ffc809588bc503c3adf5a90a00d212-0-3dedbd83603fc7914a4735723a6e1f60
+https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795311552-a6c9515d736155d4932f89e55f019f80-0-3c3b2cbccfbd2cb1f24a2f1bcfd6f223
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795280315-7b0b0088677e7eb4aff284ed60408740-0-cf0bfc0abe99ef9243233011dbc52186
+https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795311552-1025a38eca94682c8652527828d67b00-0-e92c399f5da5f8774a19a549702cbcc5
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795280316-dac113cc7316b5011f2739cdb23c8165-0-73d6ef0b0aa0cec57153288619d6b35f
+https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795311552-85aad50573b9dd68a9eb22a6971f9d13-0-28021d06b2488c45cbb941dd8a80d2d3
