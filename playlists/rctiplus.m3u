@@ -1,22 +1,17 @@
 #EXTM3U
-# Generated: 2026-11-24 03:40:57
+# Generated: 2026-11-24 16:47:35
 
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795502455-ce48d50a6c3a6da30bee1ce097a8762e-0-25d28365a1dbbf8098a1afed5591db88
+https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795549654-8779cc41db3da8de7af65e17d3196cc1-0-0e7ec9963cd0bd1b80c9ba4402e1d944
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795502456-35a3a8e2f0e68a0b64c129cfbd3fd80e-0-a410d08d8b9117f96b1eb15260ef4771
-
-#EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795502456-6e48387c41fcb5cf3338fec376b1b107-0-d0497cd968370d6a613cf500cf8f27b8
+https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795549654-fe338b547e158b1cb930465472a0f59d-0-891179bcb8302a25bfad150829a71c0c
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795502456-2e9e4b501a01b6184e9b03380494c428-0-3bae012e8ded440f5844bc6bc4cf62d9
+https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795549655-bf05e3fda04ff08127e547b1add612cd-0-dca5e7d7eff96df54b0689d22dbbc005
